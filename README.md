@@ -1,4 +1,4 @@
-# Stealthy LD_PRELOAD Rootkit
+# POC Stealthy LD_PRELOAD Rootkit
 
 ## Overview
 This project demonstrates the creation of a Linux rootkit using the `LD_PRELOAD` environment variable. The rootkit hides a specific file (`/etc/ld.so.preload`) by intercepting and modifying the behavior of common system calls.
