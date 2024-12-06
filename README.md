@@ -14,6 +14,6 @@ This project demonstrates the creation of a Linux rootkit using the `LD_PRELOAD`
 The rootkit uses the `LD_PRELOAD` environment variable to load a shared object (`.so` file) into a process's memory space. It overrides specific functions from the C standard library (`libc`) using `dlsym` to call the original implementation when necessary.
 
 ## Disclaimer
-This project is intended for **educational and research purposes only**. I do not condone or support any illegal or unethical use of this rootkit. Use this responsibly, in compliance with applicable laws and ethical guidelines.
+This project is intended for **educational and research purposes only**. I do not condone or support any illegal use of this rootkit.
 
 By using this code, you agree to take full responsibility for any actions you perform with it.
