@@ -18,4 +18,4 @@ This project is intended for **educational and research purposes only**. I do no
 
 By using this code, you agree to take full responsibility for any actions you perform with it.
 
-[All credits ](https://matheuzsecurity.github.io/hacking/ldpreload-rootkit/)
+[All credits ](https://matheuzsecurity.github.io/hacking/ldpreload-rootkit/)💙
