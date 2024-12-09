@@ -17,3 +17,5 @@ The rootkit uses the `LD_PRELOAD` environment variable to load a shared object (
 This project is intended for **educational and research purposes only**. I do not condone or support any illegal use of this rootkit.
 
 By using this code, you agree to take full responsibility for any actions you perform with it.
+
+[All credits ](https://matheuzsecurity.github.io/hacking/ldpreload-rootkit/)
